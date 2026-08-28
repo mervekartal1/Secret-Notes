@@ -1,3 +1,4 @@
+<img width="687" height="1102" alt="Ekran görüntüsü 2026-08-28 150545" src="https://github.com/user-attachments/assets/b6229fd7-2736-4d60-95c1-455b457783cb" />
 # 🔐 Secret Notes
 
 Secret Notes is a simple desktop application built with Python and Tkinter that allows users to create, encrypt, save, and decrypt private notes using a master key.
